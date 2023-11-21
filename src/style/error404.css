@@ -1,0 +1,22 @@
+.error-main-container {
+  background: #fff;
+  min-height: 100vh;
+}
+
+.error-sub-container {
+  text-align: center;
+}
+
+.error-typography-style {
+  margin-bottom: 32px;
+  font-size: 18px;
+}
+
+.error-button-style {
+  background: #0686ec;
+  color: #ffffff;
+  padding: 12px 30px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+}

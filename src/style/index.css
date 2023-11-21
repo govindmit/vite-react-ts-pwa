@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    font-family: sans-serif;
+}
+.contain-container {
+    width: 1240px;
+    max-width: 100%;
+    margin: auto;
+}
